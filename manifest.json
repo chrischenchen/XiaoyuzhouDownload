@@ -1,0 +1,19 @@
+
+
+{
+  "manifest_version": 2,
+  "name": "M4A Downloader",
+  "description": "Download m4a files from the current page",
+  "version": "1.0",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_title": "Download M4A"
+  },
+  "permissions": [
+    "activeTab",
+    "downloads"
+  ]
+}
