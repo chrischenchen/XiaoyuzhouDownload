@@ -2,7 +2,10 @@
 Paste the audio link from Xiaoyuzhou Podcast to the browser. And click the XiaoyuzhouDownload 
 Chrome extension. The m4a file of this Podcast will be downloaded.
 
+<a href="https://afdian.net/a/czt16"><img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.jpg" alt=""></a>
+
 ![image](https://github.com/chrischenchen/XiaoyuzhouDownload/assets/19976775/768ee7fd-07cd-4384-a93d-33e1870a4c45)
+
 
 
 ## Installation
@@ -12,3 +15,4 @@ Chrome extension. The m4a file of this Podcast will be downloaded.
 4. In Chrome/Edge go to the extensions page (chrome://extensions or edge://extensions).
 5. Enable Developer Mode.
 6. Drag the unzipped folder anywhere on the page to import it (do not delete the folder afterwards).
+
